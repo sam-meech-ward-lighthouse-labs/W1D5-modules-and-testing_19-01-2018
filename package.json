@@ -1,0 +1,18 @@
+{
+  "name": "sea-food",
+  "version": "1.0.0",
+  "main": "app.js",
+  "dependencies": {
+    "left-pad": "^1.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^5.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": ""
+}
